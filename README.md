@@ -31,31 +31,27 @@
 
 ## 💼 Skills  
 
-**Languages & Frameworks**  
-- ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-CakePHP-informational?style=flat&logo=cakephp&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-FuelPHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-Nuxt.js-informational?style=flat&logo=nuxt.js&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)  
+### Languages & Frameworks  
+| | |
+|---|---|
+| ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197) | ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197) |
+| ![](https://img.shields.io/badge/Code-CakePHP-informational?style=flat&logo=cakephp&logoColor=white&color=4AB197) | ![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=4AB197) |
+| ![](https://img.shields.io/badge/Code-FuelPHP-informational?style=flat&logo=php&logoColor=white&color=4AB197) | ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197) |
+| ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197) | ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=4AB197) |
+| ![](https://img.shields.io/badge/Code-Nuxt.js-informational?style=flat&logo=nuxt.js&logoColor=white&color=4AB197) | ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197) |
+| ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=4AB197) | ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197) |
+| ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197) |   |
 
-**Tools**  
-- ![](https://img.shields.io/badge/Tools-CPanel-informational?style=flat&logo=cpanel&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Tools-SVN-informational?style=flat&logo=subversion&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)  
-- ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)  
+---
+
+### Tools  
+| | |
+|---|---|
+| ![](https://img.shields.io/badge/Tools-CPanel-informational?style=flat&logo=cpanel&logoColor=white&color=4AB197) | ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197) |
+| ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197) | ![](https://img.shields.io/badge/Tools-SVN-informational?style=flat&logo=subversion&logoColor=white&color=4AB197) |
+| ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197) | ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197) |
+
  
-
-
 ---
 
 [Adventure Dhaka Ltd.]: https://jp.adventurekk.com/
