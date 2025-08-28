@@ -29,8 +29,9 @@
 
 ---
 
-## 💼 Skills
+## 💼 Skills  
 
+**Languages & Frameworks**  
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Code-CakePHP-informational?style=flat&logo=cakephp&logoColor=white&color=4AB197)  
@@ -45,14 +46,14 @@
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)  
 
-<br>
-
+**Tools**  
 ![](https://img.shields.io/badge/Tools-CPanel-informational?style=flat&logo=cpanel&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Tools-SVN-informational?style=flat&logo=subversion&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=4AB197)  
+
 
 ---
 
