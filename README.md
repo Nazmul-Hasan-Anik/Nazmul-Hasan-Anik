@@ -27,7 +27,7 @@
 
 ## Most Used Languages
 
-![Most Used Languages](./most_used_languages.svg)
+![Most Used Languages](/most_used_languages.svg)
 
 ---
 
