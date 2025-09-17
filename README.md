@@ -25,14 +25,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=Nazmul-Hasan-Anik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🔥 Most Used Languages
+## 🔥 Most Used Languages
 
-PHP           95%
-Laravel       92%
-JavaScript    40%
-Golang        25%
-CSS           13.69%
-HTML          11.88%
+PHP 95% Laravel 92% JavaScript 40% Golang 25% CSS 13.69% HTML 11.88%
 
 ---
 
