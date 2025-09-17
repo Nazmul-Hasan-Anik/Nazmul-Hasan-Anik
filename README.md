@@ -19,7 +19,11 @@
 
 ---
 
-![Snake](./assets/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazmul-Hasan-Anik/Nazmul-Hasan-Anik/snake/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazmul-Hasan-Anik/Nazmul-Hasan-Anik/snake/snake.svg">
+  <img alt="github contribution snake" src="./assets/snake.svg" />
+</picture>
 
 ---
 
