@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+  <!-- Background: realistic mixed-green contribution-like grid -->
+  <defs>
+    <pattern id="tileMixed" width="64" height="64" patternUnits="userSpaceOnUse">
+      <!-- cell 12, gap 4 (step 16). 4x4 tile with varied greens -->
+      <!-- row 0 -->
+      <rect x="0" y="0"   width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="16" y="0"  width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <rect x="32" y="0"  width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="48" y="0"  width="12" height="12" rx="2" ry="2" fill="#0e7c3a"/>
+      <!-- row 1 -->
+      <rect x="0" y="16"  width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <rect x="16" y="16" width="12" height="12" rx="2" ry="2" fill="#0b5e2b"/>
+      <rect x="32" y="16" width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="48" y="16" width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <!-- row 2 -->
+      <rect x="0" y="32"  width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="16" y="32" width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="32" y="32" width="12" height="12" rx="2" ry="2" fill="#0e7c3a"/>
+      <rect x="48" y="32" width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <!-- row 3 -->
+      <rect x="0" y="48"  width="12" height="12" rx="2" ry="2" fill="#0b5e2b"/>
+      <rect x="16" y="48" width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <rect x="32" y="48" width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="48" y="48" width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+    </pattern>
+  </defs>
+
+  <rect width="880" height="150" fill="#ffffff"/>
+  <g transform="translate(20,20)">
+    <rect x="0" y="0" width="848" height="112" fill="url(#tileMixed)"/>
+
+    <!-- Snake path (smooth horizontal sine-like path through the grid center) -->
+    <path id="snakePath" d="M0,56 C 106,0 212,112 318,56 S 530,56 636,56 S 742,112 848,56" fill="none" stroke="none"/>
+
+    <!-- Snake segments (head + trailing body) -->
+    <!-- Each segment is a rounded square the size of a cell, following the same path with slight delays -->
+    <g id="snake" fill="#7c3aed">
+      <rect width="12" height="12" rx="3" ry="3">
+        <animateMotion dur="10s" repeatCount="indefinite" rotate="auto">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </rect>
+      <rect width="12" height="12" rx="3" ry="3" opacity="0.9">
+        <animateMotion dur="10s" begin="0.1s" repeatCount="indefinite" rotate="auto">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </rect>
+      <rect width="12" height="12" rx="3" ry="3" opacity="0.8">
+        <animateMotion dur="10s" begin="0.2s" repeatCount="indefinite" rotate="auto">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </rect>
+      <rect width="12" height="12" rx="3" ry="3" opacity="0.7">
+        <animateMotion dur="10s" begin="0.3s" repeatCount="indefinite" rotate="auto">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </rect>
+      <rect width="12" height="12" rx="3" ry="3" opacity="0.6">
+        <animateMotion dur="10s" begin="0.4s" repeatCount="indefinite" rotate="auto">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </rect>
+      <rect width="12" height="12" rx="3" ry="3" opacity="0.5">
+        <animateMotion dur="10s" begin="0.5s" repeatCount="indefinite" rotate="auto">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </rect>
+      <rect width="12" height="12" rx="3" ry="3" opacity="0.4">
+        <animateMotion dur="10s" begin="0.6s" repeatCount="indefinite" rotate="auto">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </rect>
+    </g>
+  </g>
+</svg>
+
