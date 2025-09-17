@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="150" viewBox="0 0 880 150">
   <!-- Background: realistic mixed-green contribution-like grid -->
   <defs>
     <pattern id="tileMixed" width="64" height="64" patternUnits="userSpaceOnUse">
