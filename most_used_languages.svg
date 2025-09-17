@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
     <style>
-        .lang-bar { height: 25px; margin: 5px 0; }
-        .lang-name { font-family: Arial, sans-serif; font-size: 14px; fill: #333; }
-        .lang-percent { font-family: Arial, sans-serif; font-size: 14px; fill: #666; text-anchor: end; }
+        .lang { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #000000; }
+        .percent { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #666666; }
+        .progress { height: 8px; rx: 4px; ry: 4px; }
+        .bg { fill: #eeeeee; }
+        .bar { rx: 4px; ry: 4px; }
     </style>
+    
+    <g transform="translate(25, 20)">
+        <!-- PHP -->
+        <text class="lang" x="0" y="12">PHP</text>
+        <rect class="progress bg" x="100" y="3" width="250" height="8"/>
+        <rect class="progress bar" x="100" y="3" width="237.5" height="8" fill="#4F5D95"/>
+        <text class="percent" x="360" y="12">95%</text>
+
+        <!-- Laravel -->
+        <g transform="translate(0,25)">
+            <text class="lang" x="0" y="12">Laravel</text>
+            <rect class="progress bg" x="100" y="3" width="250" height="8"/>
+            <rect class="progress bar" x="100" y="3" width="230" height="8" fill="#FF2D20"/>
+            <text class="percent" x="360" y="12">92%</text>
+        </g>
+
+        <!-- JavaScript -->
+        <g transform="translate(0,50)">
+            <text class="lang" x="0" y="12">JavaScript</text>
+            <rect class="progress bg" x="100" y="3" width="250" height="8"/>
+            <rect class="progress bar" x="100" y="3" width="100" height="8" fill="#f1e05a"/>
+            <text class="percent" x="360" y="12">40%</text>
+        </g>
+
+        <!-- Golang -->
+        <g transform="translate(0,75)">
+            <text class="lang" x="0" y="12">Golang</text>
+            <rect class="progress bg" x="100" y="3" width="250" height="8"/>
+            <rect class="progress bar" x="100" y="3" width="62.5" height="8" fill="#00ADD8"/>
+            <text class="percent" x="360" y="12">25%</text>
+        </g>
+
+        <!-- CSS -->
+        <g transform="translate(0,100)">
+            <text class="lang" x="0" y="12">CSS</text>
+            <rect class="progress bg" x="100" y="3" width="250" height="8"/>
+            <rect class="progress bar" x="100" y="3" width="34.225" height="8" fill="#563d7c"/>
+            <text class="percent" x="360" y="12">13.69%</text>
+        </g>
+
+        <!-- HTML -->
+        <g transform="translate(0,125)">
+            <text class="lang" x="0" y="12">HTML</text>
+            <rect class="progress bg" x="100" y="3" width="250" height="8"/>
+            <rect class="progress bar" x="100" y="3" width="29.7" height="8" fill="#e34c26"/>
+            <text class="percent" x="360" y="12">11.88%</text>
+        </g>
+    </g>
+</svg>
     
     <!-- PHP -->
     <g transform="translate(0,0)">
