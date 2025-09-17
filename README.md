@@ -19,7 +19,7 @@
 
 ---
 
-![Snake](https://github.com/Nazmul-Hasan-Anik/Nazmul-Hasan-Anik/blob/snake/github-contribution-grid-snake.svg?raw=true)
+![Snake](./assets/snake.svg)
 
 ---
 
