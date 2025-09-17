@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+  <defs>
+    <!-- cell size 12 with 4px gap = 16px step; build a 4x4 tile (64x64) with varied shades -->
+    <pattern id="tileMixed" width="64" height="64" patternUnits="userSpaceOnUse">
+      <!-- row 0 -->
+      <rect x="0" y="0"   width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="16" y="0"  width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <rect x="32" y="0"  width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="48" y="0"  width="12" height="12" rx="2" ry="2" fill="#0e7c3a"/>
+      <!-- row 1 -->
+      <rect x="0" y="16"  width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <rect x="16" y="16" width="12" height="12" rx="2" ry="2" fill="#0b5e2b"/>
+      <rect x="32" y="16" width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="48" y="16" width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <!-- row 2 -->
+      <rect x="0" y="32"  width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="16" y="32" width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="32" y="32" width="12" height="12" rx="2" ry="2" fill="#0e7c3a"/>
+      <rect x="48" y="32" width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <!-- row 3 -->
+      <rect x="0" y="48"  width="12" height="12" rx="2" ry="2" fill="#0b5e2b"/>
+      <rect x="16" y="48" width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+      <rect x="32" y="48" width="12" height="12" rx="2" ry="2" fill="#39d353"/>
+      <rect x="48" y="48" width="12" height="12" rx="2" ry="2" fill="#26a641"/>
+    </pattern>
+  </defs>
+  <rect width="880" height="150" fill="#ffffff"/>
+  <!-- grid origin -->
+  <g transform="translate(20,20)">
+    <!-- 53 columns x 7 rows area (53*16 = 848, 7*16 = 112) -->
+    <rect x="0" y="0" width="848" height="112" fill="url(#tileMixed)"/>
+  </g>
+</svg>
+
