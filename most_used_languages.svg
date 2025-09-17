@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .lang-bar { height: 25px; margin: 5px 0; }
+        .lang-name { font-family: Arial, sans-serif; font-size: 14px; fill: #333; }
+        .lang-percent { font-family: Arial, sans-serif; font-size: 14px; fill: #666; text-anchor: end; }
+    </style>
+    
+    <!-- PHP -->
+    <g transform="translate(0,0)">
+        <text x="0" y="15" class="lang-name">PHP</text>
+        <rect x="120" y="0" width="400" height="20" fill="#eee" rx="5"/>
+        <rect x="120" y="0" width="380" height="20" fill="#4F5D95" rx="5"/>
+        <text x="530" y="15" class="lang-percent">95%</text>
+    </g>
+
+    <!-- Laravel -->
+    <g transform="translate(0,30)">
+        <text x="0" y="15" class="lang-name">Laravel</text>
+        <rect x="120" y="0" width="400" height="20" fill="#eee" rx="5"/>
+        <rect x="120" y="0" width="368" height="20" fill="#FF2D20" rx="5"/>
+        <text x="530" y="15" class="lang-percent">92%</text>
+    </g>
+
+    <!-- JavaScript -->
+    <g transform="translate(0,60)">
+        <text x="0" y="15" class="lang-name">JavaScript</text>
+        <rect x="120" y="0" width="400" height="20" fill="#eee" rx="5"/>
+        <rect x="120" y="0" width="160" height="20" fill="#f1e05a" rx="5"/>
+        <text x="530" y="15" class="lang-percent">40%</text>
+    </g>
+
+    <!-- Golang -->
+    <g transform="translate(0,90)">
+        <text x="0" y="15" class="lang-name">Golang</text>
+        <rect x="120" y="0" width="400" height="20" fill="#eee" rx="5"/>
+        <rect x="120" y="0" width="100" height="20" fill="#00ADD8" rx="5"/>
+        <text x="530" y="15" class="lang-percent">25%</text>
+    </g>
+
+    <!-- CSS -->
+    <g transform="translate(0,120)">
+        <text x="0" y="15" class="lang-name">CSS</text>
+        <rect x="120" y="0" width="400" height="20" fill="#eee" rx="5"/>
+        <rect x="120" y="0" width="55" height="20" fill="#563d7c" rx="5"/>
+        <text x="530" y="15" class="lang-percent">13.69%</text>
+    </g>
+
+    <!-- HTML -->
+    <g transform="translate(0,150)">
+        <text x="0" y="15" class="lang-name">HTML</text>
+        <rect x="120" y="0" width="400" height="20" fill="#eee" rx="5"/>
+        <rect x="120" y="0" width="47.5" height="20" fill="#e34c26" rx="5"/>
+        <text x="530" y="15" class="lang-percent">11.88%</text>
+    </g>
+</svg>
