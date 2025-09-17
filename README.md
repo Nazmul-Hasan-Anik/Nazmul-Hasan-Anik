@@ -25,7 +25,52 @@
 
 [![](https://visitcount.itsvg.in/api?id=Nazmul-Hasan-Anik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul-Hasan-Anik&card_width=550)](https://github.com/Nazmul-Hasan-Anik)
+### 🔥 Most Used Languages
+
+<div style="display:flex; flex-direction:column; gap:5px;">
+  <div style="display:flex; align-items:center; gap:10px;">
+    <div style="width:100px">PHP</div>
+    <div style="width:400px; height:20px; background:#eee; border-radius:5px; overflow:hidden">
+      <div style="width:95%; height:100%; background:#4F5D95; border-radius:5px"></div>
+    </div>
+    <div>95%</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <div style="width:100px">Laravel</div>
+    <div style="width:400px; height:20px; background:#eee; border-radius:5px; overflow:hidden">
+      <div style="width:92%; height:100%; background:#FF2D20; border-radius:5px"></div>
+    </div>
+    <div>92%</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <div style="width:100px">JavaScript</div>
+    <div style="width:400px; height:20px; background:#eee; border-radius:5px; overflow:hidden">
+      <div style="width:40%; height:100%; background:#f1e05a; border-radius:5px"></div>
+    </div>
+    <div>40%</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <div style="width:100px">Golang</div>
+    <div style="width:400px; height:20px; background:#eee; border-radius:5px; overflow:hidden">
+      <div style="width:25%; height:100%; background:#00ADD8; border-radius:5px"></div>
+    </div>
+    <div>25%</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <div style="width:100px">CSS</div>
+    <div style="width:400px; height:20px; background:#eee; border-radius:5px; overflow:hidden">
+      <div style="width:13.69%; height:100%; background:#563d7c; border-radius:5px"></div>
+    </div>
+    <div>13.69%</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:10px;">
+    <div style="width:100px">HTML</div>
+    <div style="width:400px; height:20px; background:#eee; border-radius:5px; overflow:hidden">
+      <div style="width:11.88%; height:100%; background:#e34c26; border-radius:5px"></div>
+    </div>
+    <div>11.88%</div>
+  </div>
+</div>
 
 ---
 
